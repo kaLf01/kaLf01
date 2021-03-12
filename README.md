@@ -2,9 +2,9 @@
 - 👀 I’m interested in programming "software engineering"
 - 🌱 I’m currently learning web developing
 - 📫 How to reach me ...
-        Mob and wp +218 92 3160230
-          Email mohamedkhalef492@yahoo.com
-               linkedin www.linkedin.com/in/mohamed-khalef
+        -Mob and wp +218 92 3160230
+           -Email mohamedkhalef492@yahoo.com
+              -linkedin www.linkedin.com/in/mohamed-khalef
 
 
 <!---
